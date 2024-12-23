@@ -4,8 +4,6 @@ Hi 👋 My name is Roland882
 Java Developer
 --------------
 
-I'm currently a Developer at [ReSideMC.hu](https://www.residemc.hu)
-
 * 🌍  I'm based in Hungary
 * ✉️  You can contact me at [roland882dev@gmail.com](mailto:roland882dev@gmail.com)
 
