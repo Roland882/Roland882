@@ -43,9 +43,6 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -55,13 +52,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
+<td valign="top" width="30%">
+  <div align="right">
+    <img src="https://media.tenor.com/1NLUZ9dMsSMAAAAi/verycat-cat-eating-chips.gif" height="400" alt="Cat eating chips GIF" />
+  </div>
+</td>
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roland882&show_icons=true&theme=highcontrast)
-
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roland882&show_icons=true&theme=highcontrast" alt="Roland882's GitHub stats" />
+</div>
