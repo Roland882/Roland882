@@ -62,8 +62,6 @@
 
 ###
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Roland882&theme=highcontrast)](https://git.io/streak-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roland882&show_icons=true&theme=highcontrast)
 
 ###
